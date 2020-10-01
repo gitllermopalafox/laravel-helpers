@@ -684,19 +684,6 @@ function value($value)
 function with($object)
 ```
 
-### dd
-<a name="dd"/>
-
-```php
- /**
- 	* Dump the passed variables and end the script.
-	*
-	* @param  mixed  $args
-	* @return void
-*/
-function dd($arg...)
-```
-
 ### data_set
 <a name="data_set"/>
 
